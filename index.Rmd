@@ -17,6 +17,6 @@ We developed this website to share lesson plans on agriculture and nature-based 
 Julie  [git](https://github.com/j-k-davis)<br> </font>
 
 
-![](index_files/ns_park.jpeg)
+![](julie_files/ns_park.jpeg)
 ```{r}
 
