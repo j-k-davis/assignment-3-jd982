@@ -1,7 +1,7 @@
 ---
-title: "index.Rmd"
-author: "Julie Davis"
-date: "3/3/2021"
+title: "Biodiversity in the Classroom"
+author: ""
+date: ""
 output: html_document
 ---
 
@@ -9,20 +9,17 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Bees please
-Julie Davis [git](https://github.com/j-k-davis)<br>
-Diana Obregon [git](https://github.com/dianaobregonc)
+##  Free Lesson Database <br>
+We developed this website to share lesson plans on agriculture and nature-based themes. Please contact us with any questions.
 
-```{r cars}
-summary(cars)
-```
+<br>
+<font size = "1"> Diana  [git](https://github.com/dianaobregonc)<br>
+Julie  [git](https://github.com/j-k-davis)<br> </font>
 
-## Including Plots
 
-You can also embed plots, for example:
+![](index_files/ns_park.jpeg)
+```{r ns_park, fig.align = 'center', out.width = "25%", fig.cap = "The new SSA logo, which is actually a scatterplot, which is super neat!"}
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+#knitr::include_graphics(assignment-3-jd982::index_files("figs", "ns_park.jpeg"))
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+

@@ -1,7 +1,7 @@
 ---
-title: "julie.Rmd"
-author: "Julie Davis"
-date: "3/3/2021"
+title: "Julie"
+author: ""
+date: ""
 output: html_document
 ---
 
