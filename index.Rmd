@@ -4,6 +4,13 @@ author: ""
 date: ""
 output: html_document
 ---
+<style>
+  body {background-color:black}
+</style>
+<body>
+  <h1>Free Lesson Database</h1>
+  <p></p>
+</body>
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -11,12 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ##  Free Lesson Database <br>
 We developed this website to share lesson plans on agriculture and nature-based themes. Please contact us with any questions.
-
 <br>
 <font size = "1"> Diana  [git](https://github.com/dianaobregonc)<br>
 Julie  [git](https://github.com/j-k-davis)<br> </font>
+```{r fig.align="center"}
 
-
-![](julie_files/ns_park.jpeg)
-```{r}
+```
+![Wow](https://64.media.tumblr.com/2117aaa60550a293cbdc9b835056f87a/tumblr_inline_plssndSdtf1sk2qml_1280.png)
+<center> <font size = ".5"> wow </center>
+<br>
+<br><br><br><br>
 
