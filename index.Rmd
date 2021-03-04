@@ -16,9 +16,9 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-##  Free Lesson Database <br>
-We developed this website to share lesson plans on agriculture and nature-based themes. Please contact us with any questions.
+<center>
+  We developed this website to share lesson plans on agriculture and nature-based themes. Please contact us with any questions.
+</center>
 <br>
 <font size = "1"> Diana  [git](https://github.com/dianaobregonc)<br>
 Julie  [git](https://github.com/j-k-davis)<br> </font>
